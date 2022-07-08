@@ -1,0 +1,25 @@
+body {
+    background: #27232E;
+    font-size: 30px;
+}
+
+.gameTitle {
+    display: block;
+margin-left: auto;
+margin-right: auto;
+    width: 80%;
+    height: 80%;
+
+}
+
+div {
+    background-color: white;
+    padding: 30px 30px 30px 30px;
+    margin: 100px;
+
+}
+
+.bron {
+    color: white;
+    font-size: 20px;
+}
